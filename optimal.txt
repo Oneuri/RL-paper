@@ -1,0 +1,4 @@
+optimal policy
+optimal solution actions taken
+optimal value function
+gamma - discount rate 0.7 or 0.9
